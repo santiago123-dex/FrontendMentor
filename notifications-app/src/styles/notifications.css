@@ -37,3 +37,9 @@ main{
     border-radius: 10px;
 }
 
+@media(max-width: 500px){
+    .box-notifications-tittles{
+        margin: 1rem;
+    }
+}
+
